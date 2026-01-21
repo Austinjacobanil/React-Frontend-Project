@@ -1,4 +1,4 @@
-# Basics- Mineral Water Frontend
+# React - Frontend
 
 A modern and responsive frontend built using **React.js** and **Vite** for "Basics" — a clean, intuitive website for a mineral water company. This project showcases product listings, brand identity, and essential e-commerce UI features.
 
