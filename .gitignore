@@ -22,3 +22,15 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Env files
+.env
+.env.*
+!.env.example
+
+# Vite cache (optional)
+.vite
+
+# Misc
+Thumbs.db
+

@@ -38,14 +38,11 @@ const Contact = () => {
     <div className='contact'>
         <div className="contact-col">
             <h3>Send us a message <img src={msg_img} alt="" /></h3>
-            <p>We’re here to help! Whether you have questions about our products, need assistance with an order, or want to share your feedback, our team is ready to assist you. At Basics, we value every interaction and strive to provide prompt, reliable support. Feel free to reach out to us using the form below, or connect with us via email or phone. We look forward to hearing from you!</p>
+            <p>We’re here to help! Whether you have questions about our products, need assistance with an order, or want to share your feedback, our team is ready to assist you. At Water Company, we value every interaction and strive to provide prompt, reliable support. Feel free to reach out to us using the form below, or connect with us via email or phone. We look forward to hearing from you!</p>
         <ul>
-            <li><img src={mail_icon} alt="" />austinaniljacob@gmail.com</li>
-            <li><img src={phone_icon} alt="" />+91 9384875739</li>
-            <li><img src={location_icon} alt="" />Pure Life Food And Beverages Company 
-Villoonni,  PO, Kottayam 
-PIN: 686008
-Kottayam Dist,Kerala state</li>
+            <li><img src={mail_icon} alt="" />watercompany@gmail.com</li>
+            <li><img src={phone_icon} alt="" />+91 83885730</li>
+            <li><img src={location_icon} alt="" />Beverages and Water Company, India </li>
         </ul>
         </div>
         <div className="contact-col">

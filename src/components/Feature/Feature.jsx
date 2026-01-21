@@ -1,4 +1,4 @@
-import React from 'react'
+// import React from 'react'
 import './Feature.css'
 import feature_1 from '../../assets/feature_1.png'
 import feature_2 from '../../assets/feature_2.png'
